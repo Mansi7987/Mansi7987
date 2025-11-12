@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mansi! 👋
 
-<!--
-**Mansi7987/Mansi7987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** passionate about creating interactive and user-friendly websites.  
+I enjoy learning new technologies, building projects, and sharing knowledge.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansi7987&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi7987&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansi7987&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-sengar-6b8153256)  
+
+---
+
+## 🌟 Fun Fact
+I love experimenting with new technologies and creating projects that are both functional and beautiful.  
